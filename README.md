@@ -6,3 +6,5 @@ The three observation of Part I:
 
 Difficult part:
 1. In order to request the data from the citipy, we need to install the citipy and activate that, that takes me a while to find out how.
+2. The last Vacation part, how to loop the hotel name in the table and put it on the marker in a certain form is a very difficult part, and it is basically difficult to find materials for reference.
+
