@@ -12,3 +12,4 @@ Difficult part:
 Easy part:
 
 Although this is the most difficult assignment so far, it is relatively easy to complete this regression because the previous assignment did a lot of regression related coding. I still feel a sense of achievement.
+The most interesting part of this homework is that I can really get data from a database and display them in my own charts and plots, and it is really easy to analyze some trends. I also realized that the sites that show the location of the storefront are all connected to Google's API.
